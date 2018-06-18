@@ -271,7 +271,7 @@ font-weight: 600;
 color: hsl(0, 0%, 2%);
 text-align: center;
 }
-.emo
+ #emo
   {
     color:black;
     margin-top:10px;
@@ -281,10 +281,9 @@ text-align: center;
   }
   .dam{
       color:hsl(0, 0%, 48%);
-      margin-top:130px;
+      margin-top:200px;
     
     margin-left: 80px;
-  }
   .i1
   {
       margin-top: 100px;
