@@ -50,14 +50,15 @@ header{
 }
 .hero h1
 {
+  
     padding: 50px;
     margin-top: 13% ;
     margin-left:19%;
     font-family: mountains;
     font-size:160px;
-    background: linear-gradient(#00d0ff, #25ffbf);
-    background-clip: text;
-   -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .countdownContainer
 {
